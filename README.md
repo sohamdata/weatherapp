@@ -1,3 +1,3 @@
-trying apis
+tryingout ajax
 
 https://openweathermap.org/current
